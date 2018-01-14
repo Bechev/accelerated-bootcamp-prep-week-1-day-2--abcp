@@ -8,8 +8,9 @@ if (pokemon == "Pikachu") {
 
 function isTen(number){
   if(numner==10){
-    return 10
+    console.log(number)
   } else{
-    return "Is not ten"
+    console.log( "Is not ten")
   }
 }
+
