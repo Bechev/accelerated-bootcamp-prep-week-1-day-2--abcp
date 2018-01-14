@@ -6,3 +6,10 @@ if (pokemon == "Pikachu") {
 
 
 
+function isTen(number){
+  if(numner==10){
+    return 10
+  } else{
+    return "Is not ten"
+  }
+}
