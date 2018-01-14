@@ -7,7 +7,7 @@ if (pokemon == "Pikachu") {
 
 
 function isTen(number){
-  if(numner==10){
+  if(number==10){
     console.log(number)
   } else{
     console.log( `${number}is not ten`)
