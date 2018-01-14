@@ -10,6 +10,9 @@ function isTen(number){
   if(numner==10){
     console.log(number)
   } else{
-    console.log( `${number}is not ten")
+    console.log( `${number}is not ten`)
   }
 }
+
+isTen(10)
+isTen(1000)
